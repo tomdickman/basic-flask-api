@@ -1,0 +1,12 @@
+# Python caching
+__pycache__
+
+# pyevn python version management
+.python-version
+
+# VS Code config
+.devcontainer
+.vscode
+
+# Poetry package management (use poetry.lock)
+pyproject.toml
